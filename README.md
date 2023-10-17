@@ -3,7 +3,6 @@ Hello this is Quinte. I have been coding since I was 14. Here are some projects 
 1. Market simulator (This is a simulation that looks at determining the value of goods for the market)
 2. AI chatbot (This is a chatbot with data science)
 3. Papyrus Wars (This is a game I made)
-4. 3D space sim (This shows skills in graphics programming)
 
 <!--
 **Quilver/Quilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
