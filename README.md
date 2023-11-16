@@ -2,7 +2,7 @@ I am Quinte Vail, a recent graduate from the University of East Anglia. I specia
 1.	Papyrus Wars (A tactics game)
 2.	AI chatbot (A natural language and machine learning application)
 3.	Market simulation (a procedural world generator and market simulation)
-
+Will be releasing mobile game Maid Match by December 2023. Cannot discuss source code for commercial reasons
 <!--
 **Quilver/Quilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
