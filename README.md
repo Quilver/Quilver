@@ -1,4 +1,4 @@
-I am Quinte Vail a recent graduate from the University of East Anglia. I specialise in game development and AI. Below are some projects that I have selected to document to give a sense of what I have worked on.
+I am Quinte Vail, a recent graduate from the University of East Anglia. I specialise in game development and AI. Below are some projects that I have selected to document to give a sense of what I have worked on.
 1.	Papyrus Wars (A tactics game)
 2.	AI chatbot (A natural language and machine learning application)
 3.	Market simulation (a procedural world generator and market simulation)
