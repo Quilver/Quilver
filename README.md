@@ -1,10 +1,10 @@
 I am Quinte Vail, a recent graduate from the University of East Anglia. I specialise in game development and AI. Below are some projects that I have selected to document to give a sense of what I have worked on.
 1.	[Papyrus Wars](https://github.com/Quilver/Papyrus_wars_base-master) (A tactics game)
-2.	[AI chatbot](https://github.com/Quilver/ChatbotGUI) (A natural language and machine learning application)
-3.	[Market simulation](https://github.com/Quilver/market-simulator) (a procedural world generator and market simulation)
+2. [Maid Match](https://github.com/Quilver/MaidRunner) 
+3. [Discriminant analysis loss](https://github.com/Quilver/Discernment-trainer)
+5.	[AI chatbot](https://github.com/Quilver/ChatbotGUI) (A natural language and machine learning application)
+6.	[Market simulation](https://github.com/Quilver/market-simulator) (a procedural world generator and market simulation)
 
-
-Will be releasing mobile game Maid Match by December 2023. Cannot discuss source code for commercial reasons
 
 [Army test](https://github.com/Quilver/Army-System)
 <!--
