@@ -4,9 +4,9 @@ I am Quinte Vail, a recent graduate from the University of East Anglia. I specia
 3. [Discriminant analysis loss](https://github.com/Quilver/Discernment-trainer)
 5.	[AI chatbot](https://github.com/Quilver/ChatbotGUI) (A natural language and machine learning application)
 6.	[Market simulation](https://github.com/Quilver/market-simulator) (a procedural world generator and market simulation)
+You can find my LinkedIn at https://www.linkedin.com/in/quinte-vail-304953152/
 
 
-[Army test](https://github.com/Quilver/Army-System)
 <!--
 **Quilver/Quilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
