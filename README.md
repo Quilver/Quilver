@@ -1,9 +1,9 @@
 I am Quinte Vail, a recent graduate from the University of East Anglia. I specialise in game development and AI. Below are some projects that I have selected to document to give a sense of what I have worked on.
 # AI
 At the moment I am exploring agentic systems (best practices, creating knowledge agents, and building agentic systems for local machines
-1.[Agentic tutorial](https://github.com/Quilver/Agent-tutorial)
-2. [Knowledge Agent](https://github.com/Quilver/Knowledge-Agent)
-3. [Discriminant analysis loss](https://github.com/Quilver/Discernment-trainer)
+1.  [Agentic tutorial](https://github.com/Quilver/Agent-tutorial)
+2.  [Knowledge Agent](https://github.com/Quilver/Knowledge-Agent)
+3.  [Discriminant analysis loss](https://github.com/Quilver/Discernment-trainer)
 # Games development
 Most of my game development experience has been with Unity. 
 1.	[Papyrus Wars](https://github.com/Quilver/Papyrus_wars_base-master) A tactics game made in Unreal engine
