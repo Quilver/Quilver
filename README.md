@@ -6,6 +6,7 @@ At the moment I am exploring agentic systems (best practices, creating knowledge
 3.  [Discriminant analysis loss](https://github.com/Quilver/Discernment-trainer)
 # Games development
 Most of my game development experience has been with Unity. 
+My specialities are with Unity, 2d, rapid prototyping, pathfinding, and AI.
 1.	[Papyrus Wars](https://github.com/Quilver/Papyrus_wars_base-master) A tactics game made in Unreal engine
 2.  [Maid Match](https://github.com/Quilver/MaidRunner) A 2D sidescroller mobile game made in Unity
 3.  [Rune Mage](https://github.com/Quilver/Rune-Mage) A 2D topdown game made in unity for a game jam
